@@ -37,7 +37,6 @@ function agregarMetodo () {
    // Ejemplo: "Juan, 22 años".
    // Tu código:
    Persona.prototype.datos = () => `${this.nombre}, ${this.edad} años`
-
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
